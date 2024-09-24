@@ -1,4 +1,4 @@
-const backendDomin = "https://emmaback.truevastdata.com";
+const backendDomin = "https://node.syonagency.com";
 
 const SummaryApi = {
   signUP: {
