@@ -1,4 +1,4 @@
-const backendDomin = "https://node.syonagency.com";
+const backendDomin = "https://emmz-ecom-backend.onrender.com";
 
 const SummaryApi = {
   signUP: {
